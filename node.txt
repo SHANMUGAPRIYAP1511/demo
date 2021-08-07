@@ -1,0 +1,7 @@
+mongo db
+========
+it is a NoSQL database which doesnt have any data structure.
+
+mongoose
+========
+it is built on top of mongo db.it is a object data model which has a document structure.
